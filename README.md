@@ -39,4 +39,4 @@ Using **Selenium** for automation testing, we verified that the hotel price filt
 
 The automation test confirmed that the price filtering functionality works accurately, ensuring that hotel prices are displayed as expected. Any discrepancies are promptly detected through the automation process, guaranteeing an improved user experience.  
 
-![Test Results Screenshot](images/results-screenshot.png)  
+![Test Results Screenshot](https://github.com/woroodfathiassi/LowestPrice-Selenium-IDE-Test-Case/blob/main/lowestPrice.png?raw=true)  
